@@ -1,8 +1,15 @@
-# React + Vite
+# ZotDorms
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ZotDorms is a website that allows UCI students to rate and view ratings of ACC (Arroyo Vista, Camino del Sol, Vista del Campo, etc.) apartments. It aims to provide students with valuable insights into on-campus housing options by enabling them to read reviews and rate their living experiences.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **View Ratings**: Browse through different ACC apartments at UCI to see the ratings and reviews left by other students.
+- **Rate Apartments**: Users can leave ratings and write reviews to help others make informed decisions about their living situations.
+- **User-Friendly Interface**: A simple and intuitive interface built with responsiveness in mind.
+  
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Backend**: Node.js, Express
+- **Server**: Vite
