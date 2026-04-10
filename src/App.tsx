@@ -1,10 +1,9 @@
-import { useState } from 'react'
 import './App.css'
 import Navbar from './navbar.tsx'
 import Home from './pages/home.tsx'
 import About from './pages/about.tsx'
 import WriteReview from './pages/write-review.tsx'
-import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Footer from './components/footer.tsx'
 
 function App() {

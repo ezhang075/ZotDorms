@@ -1,4 +1,3 @@
-import React from 'react';
 import DormCard from '../components/dorm-card.tsx';
 import dorms from '../components/dorms.tsx';
 
